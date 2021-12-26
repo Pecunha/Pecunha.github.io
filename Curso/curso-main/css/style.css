@@ -23,6 +23,18 @@ body {
     color: red;
 }
 
+.categorias {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    border: red solid;
+}
+
+
+.preco_novo {
+    color: red;
+}
+
 .rodape {
     text-align: center;
 }
